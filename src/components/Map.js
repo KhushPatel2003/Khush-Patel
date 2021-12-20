@@ -52,7 +52,7 @@ export default function Map() {
           <PText>Niagara Falls, Ontario Canada</PText>
           <a
             className="map__card__link"
-            href="https://www.google.com/maps/place/GEC+More,+Chittagong/@22.3590818,91.8195583,17z/data=!3m1!4b1!4m5!3m4!1s0x30acd89aaa8239cd:0x6e65fa00001dd59f!8m2!3d22.3590715!4d91.8215486"
+            href="https://www.google.com/maps/place/Niagara+Falls,+ON/@43.0538471,-79.2281182,11z/data=!3m1!4b1!4m5!3m4!1s0x89d3445eec824db9:0x46d2c56156bda288!8m2!3d43.0895577!4d-79.0849436"
             target="_blank"
             rel="noreferrer"
           >
