@@ -25,7 +25,7 @@ const projects = [
     id: uuidv4(),
     name: 'Mo Money',
     desc: (
-      <a href="https://github.com/KhushPatel2003">
+      <a href="https://github.com/KhushPatel2003/Mo-Money">
         Calculating ACB gain and losses are incredibly important to finial
         institution such as the CRA. Thus but creating Mo Money, which generates
         documents for tax for the Canadian Revenue Agency (CRA). The program
@@ -40,7 +40,7 @@ const projects = [
     id: uuidv4(),
     name: 'Geese Spotter',
     desc: (
-      <a href="https://github.com/KhushPatel2003">
+      <a href="https://github.com/KhushPatel2003/GeeseSpotter">
         Geese are part of Waterloo life! Everyone knows to not get too close to
         a goose, in particular a mother goose with her goslings. Geese Spotter
         is inspired off minesweeper where the user is presented with a board
@@ -55,7 +55,7 @@ const projects = [
     id: uuidv4(),
     name: 'Weather Discord Bot',
     desc: (
-      <a href="https://github.com/KhushPatel2003">
+      <a href="https://github.com/KhushPatel2003/Weather-Bot">
         Weather Discord Bot was made using the OpenWeatherAPI and Discord.py.
         The user can simply asks the bot about the weather in a certain city by
         prefixing the city name with “!“. The main objective of the bot was to
@@ -68,7 +68,7 @@ const projects = [
     id: uuidv4(),
     name: 'Binary Riddle',
     desc: (
-      <a href="https://github.com/KhushPatel2003">
+      <a href="https://github.com/KhushPatel2003/Binary-Riddle">
         “Binary Riddle”, a twist on one of the many escape room puzzles designed
         to test individuals problem-solving skills. The program has 4 keys for
         the user to interact with, keys “1”, “0”, “delete” and “enter”. The user
@@ -98,7 +98,7 @@ const projects = [
     id: uuidv4(),
     name: 'Calculator Discord Bot',
     desc: (
-      <a href="https://github.com/KhushPatel2003">
+      <a href="https://github.com/KhushPatel2003/Calculator-Discord-Bot">
         Calculator Discord Bot was made using Discord.py. The bot can do simple
         calculations ranging from addition to cubing a number. The user can call
         the bot by prefixing the calculation with !math_”type of calculation”.
