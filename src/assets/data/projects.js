@@ -6,6 +6,7 @@ import Calcu from '../images/Calc.png';
 import Weather from '../images/Weather.png';
 import ece198 from '../images/198.png';
 import SiteScope from '../images/SiteScope.png';
+import vege from '../images/vegetarian.png';
 
 const projects = [
   {
@@ -35,6 +36,21 @@ const projects = [
       </a>
     ),
     img: MoMoney,
+  },
+  {
+    id: uuidv4(),
+    name: 'Vegetarian Element',
+    desc: (
+      <a href="https://vegetarian-element.netlify.app">
+        Coming from a background that promotes a vegetarian diet it was really
+        hard for me to find suitable recipes that I could try out. Thus, I took
+        it upon myself to create a web application that uses the Edamam search
+        API to retrieve vegetarian recipes. The recipe tiles include calories,
+        serving size, total time, ingredients, eat… The application was made
+        using ReactJS, HTML, CSS and Javascript.
+      </a>
+    ),
+    img: vege,
   },
   {
     id: uuidv4(),

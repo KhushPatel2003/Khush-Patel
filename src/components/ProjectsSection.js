@@ -83,7 +83,7 @@ export default function ProjectsSection() {
             }}
           >
             {projects.map((project, index) => {
-              if (index >= 7) return;
+              if (index >= 8) return;
               return (
                 <SwiperSlide key={project.id}>
                   <ProjectItem
